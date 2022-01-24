@@ -1,3 +1,6 @@
+Thesis Title ："Improved Image Pre-processing for Better OCR Performance"
+
+
 =============================================== <br> 
 Gulam Kibria Chowdhury <br>
 CSE Graduate || Competitive Programmer <br>
